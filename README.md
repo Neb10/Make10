@@ -6,3 +6,15 @@ On the Sydney trains, each carriage has a unique 4 digit number, usually precede
 
 For example, the carriage number might be 5432, ignoring the prepended letter. An appropriate solution might be 5 + 4 + 3–2 = 10.
 
+This program aims to provide a solution to not only the 4 numbers that are found on the inside of the train but to an arbitrary set of numbers. Additionally the use of advanced operators is also permitted which can be toggled on and off.
+
+Simple operators:
++ Addition
+- Subtraction
+* Multiplication
+\ Division
+
+Advanced operators:
+^ Power
+! Factorials
+^-# Root (power of negative)
